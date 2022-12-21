@@ -129,7 +129,7 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "rfkfjfjfjfjjfjfjfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+              "text": "announcement bar",
               "text_alignment": "center",
               "color_scheme": "accent-1",
               "link": ""
