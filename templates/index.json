@@ -519,6 +519,15 @@
         "padding_top": 60,
         "padding_bottom": 0
       }
+    },
+    "657a1a09-c0a9-4758-af63-2b0c6ceb929f": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -534,6 +543,7 @@
     "rich-text",
     "multicolumn-1",
     "featured-blog",
-    "newsletter"
+    "newsletter",
+    "657a1a09-c0a9-4758-af63-2b0c6ceb929f"
   ]
 }
